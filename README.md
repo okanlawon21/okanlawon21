@@ -32,7 +32,7 @@ I'm a passionate [Your Role/Title] with a love for [Your Interests]. I enjoy bui
 - 🐦 Twitter: [@your-handle](https://twitter.com/your-handle)
 - 📧 Email: your.email@example.com
 - 🌐 Portfolio: [your-website.com](https://your-website.com)
-- 💬 Discord: your-username#0000
+- 💬 Discord: @your-username
 
 ## ⚡ Fun Facts
 
