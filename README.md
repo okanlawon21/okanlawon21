@@ -1,4 +1,4 @@
-## Hi, I'm Okanlawon Micheal Olatunji you can call me Ejanla
+## Hi! I'm Okanlawon Micheal Olatunji, but  you can call me Ejanla
 
 <!--
 **okanlawon21/okanlawon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,12 +25,18 @@ Knowledge gained through Research anf open sources
 
 I'm currently learning to improve model accuracy and performance, mastering Data manipulations and transformation, getting ready for clustering and pattern discovery also improving my ability to create meaningful visual insights with matplotlib.
 
+Skills & Tools
+Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
+
+
+Featured Projects 
+I'm still working on it, soon.
 
 
 How to Reach Me
 
-LinkedIn: https://linkedin.com/in/okanlawon21
-Email: Available on my GitHub profile
+LinkedIn:(https://www.linkedin.com/in/olatunjiokanlawon/)
+Email: [olatunji.okanlawon@stu.cu.edu.ng](mailto:olatunji.okanlawon@stu.cu.edu.ng)
 Discord: ejanla2000_17080
 
 
