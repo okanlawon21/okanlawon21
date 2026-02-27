@@ -1,17 +1,11 @@
-## Hi! I'm Okanlawon Micheal Olatunji, but  you can call me Ejanla
+## 👋 Hi! I'm Okanlawon Micheal Olatunji, but  you can call me Ejanla
 
 
+I’m a machine learning student with a strong interest in how machines learn patterns from data. I enjoy building predictive models, exploring datasets, and creating visual insights that turn raw data into clear, useful conclusions.
 
-I am a passionate machine learning student with love for how machines operate studying patterns, and data structures. I enjoy working on building machine learning models and visualization and I solve problems by turning data into insights, manipulations which i enjoy most.
+Growing up in Nigeria, my love for mathematics and critical thinking pushed me toward AI and machine learning. I’m currently an AI Engineering student, working mainly with **Python**, **pandas**, **scikit-learn**, and **Matplotlib/Seaborn**, and learning through research and open-source resources.
 
-As a kid growing up in Nigeria with vibrant diversity, I like mathematical task because of critical thinking  work which drove my interest into machine learning. I akways have a thing for why and how things work although don't konw why it's just me wanting the laws of the universe.
-
-Currentlly an AI Engineering Student
-Building machine learning models and Data Analysis Solutions
-I specialize in Python and Predictive Analytics, Scikit-learn, pandas, and Data Visualization
-Knowledge gained through Research anf open sources
-
-I'm currently learning to improve model accuracy and performance, mastering Data manipulations and transformation, getting ready for clustering and pattern discovery also improving my ability to create meaningful visual insights with matplotlib.
+Right now, I’m focused on improving model performance, strengthening data manipulation skills, and preparing for clustering and pattern discovery.
 
 Skills & Tools
 Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
