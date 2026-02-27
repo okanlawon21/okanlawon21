@@ -36,7 +36,7 @@ Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
   &nbsp;•&nbsp;
   📧 <a href="https://gmail.com/olatunji.okanlawon@stu.cu.edu.ng" target="_blank"><b>Gmail</b></a>
   &nbsp;•&nbsp;
-  📸 <a href="https://instagram.com/i.am_yane" target="_blank"><b>Instagram</b></a>
+  📸 <a href="https://instagram.com/i_am.yane" target="_blank"><b>Instagram</b></a>
 </p>
 
 
