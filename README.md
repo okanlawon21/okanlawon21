@@ -1,19 +1,7 @@
 ## Hi! I'm Okanlawon Micheal Olatunji, but  you can call me Ejanla
 
-<!--
-**okanlawon21/okanlawon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I am a passionate machine learning student with love for how machines operate studying patterns, and data structures. I enjoy working on building machine learning models and visualization and I solve problems by turning data into insights, manipulations which i enjoy most.
 
 As a kid growing up in Nigeria with vibrant diversity, I like mathematical task because of critical thinking  work which drove my interest into machine learning. I akways have a thing for why and how things work although don't konw why it's just me wanting the laws of the universe.
@@ -29,16 +17,27 @@ Skills & Tools
 Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
 
 
-Featured Projects 
-I'm still working on it, soon.
+## Featured Projects
 
+### 1) Student Academic Performance Prediction (UCI)
+- Built and compared **regression** and **classification (A/B/C)** models to predict students’ final grade (**G3**).
+- Includes EDA, leakage-aware preprocessing (dropped **G1/G2**), and imbalance-aware evaluation (macro/weighted F1 + confusion matrices).
+- Project folder:https://github.com/okanlawon21/MachineLearningProject/tree/master/student-performance-prediction
 
-How to Reach Me
+### 2) Chicago Taxi Fare Prediction (Keras)
+- Explored a larger dataset, selected key features, scaled inputs, and trained a simple **Keras regression** model to predict taxi fares.
+- Tried different learning rates and compared a one-feature vs two-feature setup to see what improves MAE.
+- Notebook:https://github.com/okanlawon21/MachineLearningProject/blob/master/Machine_learning_taxi.ipynb
 
-LinkedIn:(https://www.linkedin.com/in/olatunjiokanlawon/)
-Email: [olatunji.okanlawon@stu.cu.edu.ng](mailto:olatunji.okanlawon@stu.cu.edu.ng)
-Discord: ejanla2000_17080
+<p>📫 <strong>Connect!</strong></p>
 
+<p>
+  🤝 <a href="https://www.linkedin.com/in/olatunji-okanlawon" target="_blank"><b>LinkedIn</b></a>
+  &nbsp;•&nbsp;
+  📧 <a href="https://gmail.com/olatunji.okanlawon@stu.cu.edu.ng" target="_blank"><b>Gmail</b></a>
+  &nbsp;•&nbsp;
+  📸 <a href="https://instagram.com/i.am_yane" target="_blank"><b>Instagram</b></a>
+</p>
 
 
 ⚡ Fun Facts
