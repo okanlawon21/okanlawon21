@@ -28,8 +28,6 @@ Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
 <p>
   🤝 <a href="https://www.linkedin.com/in/olatunji-okanlawon" target="_blank"><b>LinkedIn</b></a>
   &nbsp;•&nbsp;
-  📧 <a href="https://gmail.com/okanlawonmicheal16@gmail.com" target="_blank"><b>Gmail</b></a>
-  &nbsp;•&nbsp;
   📸 <a href="https://instagram.com/i_am.yane" target="_blank"><b>Instagram</b></a>
 </p>
 
