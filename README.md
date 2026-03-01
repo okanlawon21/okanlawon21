@@ -30,10 +30,3 @@ Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
   &nbsp;•&nbsp;
   📸 <a href="https://instagram.com/i_am.yane" target="_blank"><b>Instagram</b></a>
 </p>
-
-
-⚡ Fun Facts
-🎤 Passionate about singing and songwriting in my free time
-🎵 Music lover - my coding sessions always have a soundtrack
-⚽ Football player - balancing tech and sports
- I know how to put you there anytime anyday 😎
