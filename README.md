@@ -1,5 +1,7 @@
-## 👋 Hi! I'm Okanlawon Micheal Olatunji, but  you can call me Ejanla
+## 👋 Hi! I'm Okanlawon Micheal Olatunji (Ejanla)
 
+
+**Machine Learning Practitioner | Climate AI Researcher**
 
 I’m a machine learning practitioner with a strong interest in how machines learn patterns from data. I enjoy building predictive models, exploring datasets, and creating visual insights that turn raw data into clear, useful conclusions.
 
@@ -7,9 +9,8 @@ Growing up in Nigeria, my love for mathematics and critical thinking pushed me t
 
 Right now, I’m focused on improving model performance, strengthening data manipulation skills, and preparing for clustering and pattern discovery.
 
-Skills & Tools
-Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
-
+### 🛠️ Tech Stack
+`Python` `PyTorch` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Keras` `Jupyter` `Git`
 
 ## Featured Projects
 
@@ -27,6 +28,8 @@ Data Analysis, Predictive Analytics, Data Visualization, AI Fundamentals
 
 <p>
   🤝 <a href="https://www.linkedin.com/in/olatunji-okanlawon" target="_blank"><b>LinkedIn</b></a>
+  &nbsp;•&nbsp;
+  𝕏 <a href="https://x.com/@MichaelOka64703" target="_blank"><b>X</b></a>
   &nbsp;•&nbsp;
   📸 <a href="https://instagram.com/i_am.yane" target="_blank"><b>Instagram</b></a>
 </p>
