@@ -27,7 +27,7 @@ Right now, I’m focused on improving model performance, strengthening data mani
 <p>📫 <strong>Connect!</strong></p>
 
 <p>
-  🤝 <a href="https://www.linkedin.com/in/olatunji-okanlawon" target="_blank"><b>LinkedIn</b></a>
+  🤝 <a href="https://www.linkedin.com/in/micheal-okanlawon/" target="_blank"><b>LinkedIn</b></a>
   &nbsp;•&nbsp;
   𝕏 <a href="https://x.com/@OlatunjiokanAI" target="_blank"><b>X</b></a>
   &nbsp;•&nbsp;
