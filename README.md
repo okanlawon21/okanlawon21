@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Okanlawon Micheal Olatunji (Ejanla)
 
 
-**Machine Learning Practitioner | Climate AI Researcher**
+**ML Engineer (Energy & Climate)  | Industrial Physics Backgraound | Building Predictive Models for Real-World Systems**
 
 I’m a machine learning practitioner with a strong interest in how machines learn patterns from data. I enjoy building predictive models, exploring datasets, and creating visual insights that turn raw data into clear, useful conclusions.
 
